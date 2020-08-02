@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 106D-D9D5
+
+ Directory of C:\work\GitLocalRepo
+
+02/08/2020  05:07 pm    <DIR>          .
+02/08/2020  05:07 pm    <DIR>          ..
+02/08/2020  05:07 pm                 0 gitPUshtest.txt
+02/08/2020  04:55 pm               900 Hello.class
+02/08/2020  04:55 pm               155 Hello.java
+02/08/2020  04:55 pm                48 index.html
+02/08/2020  04:55 pm                73 newfile.txt
+02/08/2020  04:55 pm                91 newfile123.txt
+02/08/2020  04:55 pm                60 readme.txt
+02/08/2020  04:55 pm                 8 test1.txt
+02/08/2020  04:59 pm                 8 tester.txt
+               9 File(s)          1,343 bytes
+               2 Dir(s)  251,644,948,480 bytes free
