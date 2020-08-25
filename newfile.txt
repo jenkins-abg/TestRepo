@@ -1,1 +1,12 @@
-Hello.class  Hello.java  index.html  newfile.txt  readme.txt  test1.txt
+ if (Test-Path C:/work/Jenkins/automation-jenkins/Log.txt){
+                              }else{
+                              	New-Item C:/work/Jenkins/automation-jenkins/Log.txt
+                              
+                              }
+                                Set-Content C:/work/Jenkins/automation-jenkins/Log.txt "Tprj_Path:`t"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "TestSheet_Filename:`t$path"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "Error_Number:`t0"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "Status:`t Starting"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "Spider Version:`t"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "Spider Log Text:`t"
+                                Add-Content C:/work/Jenkins/automation-jenkins/Log.txt "Error##_Fix:`t"
