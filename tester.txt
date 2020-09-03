@@ -3,3 +3,6 @@ cp home/testing/present.txt home/testing/future.txt
 if [ $? != 0 ]; then                   # last command: echo
    echo "Copy Code: $? - Unsuccessful" # last command: [
 fi
+
+
+$(echo $COMMAND|tr -d '\n')
