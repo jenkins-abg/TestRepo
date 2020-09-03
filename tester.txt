@@ -1,1 +1,5 @@
-tester
+cp home/testing/present.txt home/testing/future.txt
+   echo "Copy Code: $? - Successful"   # last command: cp
+if [ $? != 0 ]; then                   # last command: echo
+   echo "Copy Code: $? - Unsuccessful" # last command: [
+fi
