@@ -1,2 +1,2 @@
-Hello.class  index.html   newfile123.txt  test1.txt
-Hello.java   newfile.txt  readme.txt
+open
+Title" プロジェクトファイルを選択
